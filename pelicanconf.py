@@ -14,7 +14,8 @@ DEFAULT_LANG = u'en'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None	
-THEME = "/Users/jingzou/Documents/pelican-themes/notmyidea-cms/"
+THEME = "/Users/jingzou/Documents/pelican-themes/sneakyidea/"
+MENUITEMS = (('Tags', 'tags.html'),)
 
 # Blogroll
 LINKS =  (('Hometown Education', 'http://www.hometowneducation.org/index.html/'),
