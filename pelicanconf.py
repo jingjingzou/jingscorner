@@ -15,16 +15,20 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None	
 THEME = "/Users/jingzou/Documents/pelican-themes/sneakyidea/"
-MENUITEMS = (('Tags', 'tags.html'),)
+#other themes: gum, 
+#MENUITEMS = (('Tags', 'tags.html'),)
 
 # Blogroll
 LINKS =  (('Hometown Education', 'http://www.hometowneducation.org/index.html/'),
-          ('My Photo Album', 'http://s1071.photobucket.com/user/jingjingzou/library/?sort=3&page=0'),
+          ('My Photo Album', 'http://s1071.photobucket.com/user/jingjingzou/library/?sort=3&page=0')
           )
-
-# Social widget
-SOCIAL = (('Facebook', 'https://www.facebook.com/jing.zou.39'),
-          ('LinkedIn', 'http://nl.linkedin.com/pub/jing-zou/4/655/717'),)
+   #        ('LinkedIn', 'http://nl.linkedin.com/pub/jing-zou/4/655/717')
+   
+#  Social widget
+ #   SOCIAL = (('Facebook', 'https://www.facebook.com/jing.zou.39'),
+   #       ('Hometown Education', 'http://www.hometowneducation.org/index.html/'),
+  #      ('My Photo Album', 'http://s1071.photobucket.com/user/jingjingzou/library/?sort=3&page=0'),
+   #        ('LinkedIn', 'http://nl.linkedin.com/pub/jing-zou/4/655/717'))
 
 DEFAULT_PAGINATION = 6
 
