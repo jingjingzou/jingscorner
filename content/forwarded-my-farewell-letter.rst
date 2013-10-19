@@ -62,8 +62,7 @@ walks back to where the baby tomato is & steps & smuches the baby tomato
 & screams: "Ketchup!".*
 
 *Fortimoie: hahaha, fine, you can turn off your laptop and get ready to
-leave, take care … :)
-*
+leave, take care … :)*
 
 Have a nice day. Wish you all the best all the time.
 
